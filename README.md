@@ -1,5 +1,9 @@
 # Object Expression in Clojure
 
+Обьектные выражения на Clojure:\
+1 Часть - [Функциональные выражения](https://github.com/Nomad192/Functional-Expression-clj)\
+2 Часть - Объектные выражения (текущая)
+
 ## Домашнее задание 11. Объектные выражения на Clojure
 
 * Разработайте конструкторы `Constant`, `Variable`, `Add`, `Subtract`, `Multiply`, `Divide` и `Negate` для представления арифметических выражений.
